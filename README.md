@@ -4,6 +4,7 @@
 This project analyzes weather data collected over a period using Python's data analysis libraries, NumPy and Pandas. The dataset includes:
 
 Date/Time: Timestamp of the weather observation.
+
 Temp_C: Temperature in degrees Celsius.
 Dew Point Temp_C: Dew point temperature in degrees Celsius.
 Rel Hum_%: Relative humidity as a percentage.
